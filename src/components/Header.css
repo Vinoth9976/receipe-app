@@ -1,0 +1,19 @@
+.logo-images{
+    border-radius: 50px;
+
+}
+.bg-blue {
+    background-color: black;
+  }
+  .btn-blue {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-blue:hover {
+    background-color: darkblue;
+  }

@@ -1,0 +1,18 @@
+.input-group{
+    margin-bottom: 150px;
+ margin-left: -300px;
+ margin-top: 150px;
+
+
+}
+.form-control{
+    height:50px !important;
+    border-radius: 90px;
+    border-top-right-radius: 50px;
+   
+}
+.btn{
+    border-radius: 50px !important;
+ 
+
+}
